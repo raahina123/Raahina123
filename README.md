@@ -1,4 +1,4 @@
-# raahina.github.io
+
 # Data Analyst
 
 #### Technical Skills: SQL, Powerbi , ADF, Tableau, Informatica Powercenter
