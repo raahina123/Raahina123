@@ -23,22 +23,25 @@
 ## Projects
 ### Data Calculations DAX
 We designed a dashboard and successfully performed calculations by making use ofthe Power BI DAX formulae. Also, as a part of the project, the scheduled deliveries of loads were analyzed using correlation across measures.
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-
-
+[Publication]((https://github.com/raahina123/power-bi-_projects/blob/main/power%20bi%20_task.pdf))
 ![EEG Band Discovery](/assets/img/datacalculation_img.jpeg)
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### SQL Server Management
+As a part of the project, we administered the Microsoft SQL Server Database and worked with the architecture of MS SQL Server, the 
+enterprise edition of SQL Server, and varioustools of SQL Server to create and modify databases.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/sql_icon.png)
 
 
+### Query a Large Relational Database
+This interesting project on relational databases allowed us practical know-how to work with various data types, table basics, SQL functions, 
+and SQL operators to acquire customer details through database querying.
 
+### Create Azure Data Factory to find the Popular YouTube Channels
+Thisreal-life-based project on YouTube required usto fetch the list of videosfrom the YouTube channels dataset with the highest views and 
+likes to promote advertisements on the channel with maximum traffic.
+![EEG Band Discovery](/assets/img/Azure-Data-Factory.png)
 
 
 
