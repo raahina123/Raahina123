@@ -6,7 +6,8 @@
 
 ## Education
 
-- Certification in Business Intelligence Architect Masters course | Intellipaat (_Nov 2023_)						       		
+- Certification in Business Intelligence
+  Architect Masters course | Intellipaat (_Nov 2023_)						       		
 - B.tech IT | CUSAT (_June 2013_)
 
 ## Work Experience
