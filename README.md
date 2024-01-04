@@ -21,12 +21,14 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Data Calculations DAX
+We designed a dashboard and successfully performed calculations by making use ofthe Power BI DAX formulae. Also, as a part of the project, the scheduled deliveries of loads were analyzed using correlation across measures.
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Devlexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+![EEG Band Discovery](/assets/img/datacalculation_img.jpeg)
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
