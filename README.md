@@ -5,7 +5,7 @@
 #### • Data Visualization • Research Skills • Analytical Skills • Problem-Solving Skills
 
 ## Education
-- Certification in Business Intelligence Architect Masters course								       		
+- Certification in Business Intelligence Architect Masters course	(_Nov 2023)							       		
 - B.tech IT | CUSAT (_June 2013_)
 
 ## Work Experience
@@ -17,8 +17,8 @@
 **Software Developer | Treva Technologies, Kannur (_June 2013 - June 2014_)**
 - Developed and deployed a message-sending application that collectsthe user data upon registration and sendsthe message for 
   confirmation. Java SE and MySQL are used.
-- Developed Lab module for Hospital Management Software. Patients can request the orders, collect the samples and then the result will 
-  be generated.
+- Developed Lab module for Hospital Management Software. Patients can request the orders, collect the samples and then the 
+  result will be generated.
 
 
 ## Projects
