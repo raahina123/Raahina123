@@ -5,6 +5,7 @@
 #### • Data Visualization • Research Skills • Analytical Skills • Problem-Solving Skills
 
 ## Education
+
 - Certification in Business Intelligence Architect Masters course | Intellipaat (_Nov 2023_)						       		
 - B.tech IT | CUSAT (_June 2013_)
 
