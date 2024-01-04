@@ -1,7 +1,8 @@
 
 # Data Analyst
 
-#### Technical Skills: SQL, Powerbi , ADF, Tableau, Informatica Powercenter
+#### Technical Skills: SQL, Power BI, Tableau, Informatica Power Center, MSBI, Microsoft Azure Data Factory.
+### • Data Visualization • Research Skills • Analytical Skills • Problem-Solving Skills
 
 ## Education
 - Certification in Business Intelligence Architect Masters course								       		
