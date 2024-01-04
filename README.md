@@ -25,7 +25,7 @@
 We designed a dashboard and successfully performed calculations by making use ofthe Power BI DAX formulae. Also, as a part of the project, the scheduled deliveries of loads were analyzed using correlation across measures.
 ![dax](/assets/img/data-analytics.jpg)
 ### SQL Server Management
-As a part of the project, we administered the Microsoft SQL Server Database and worked with the architecture of MS SQL Server, the enterprise edition of SQL Server, and varioustools of SQL Server to create and modify databases.
+As a part of the project, we administered the Microsoft SQL Server Database and worked with the architecture of MS SQL Server, the enterprise edition of SQL Server, and various tools of SQL Server to create and modify databases.
 ![sql](/assets/img/sql_icon.png)
 ### Query a Large Relational Database
 This interesting project on relational databases allowed us practical know-how to work with various data types, table basics, SQL functions, 
