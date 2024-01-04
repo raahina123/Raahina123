@@ -5,7 +5,7 @@
 #### • Data Visualization • Research Skills • Analytical Skills • Problem-Solving Skills
 
 ## Education
-- Certification in Business Intelligence Architect Masters course	(_Nov 2023)							       		
+- Certification in Business Intelligence Architect Masters course | Intellipaat (_Nov 2023_)						       		
 - B.tech IT | CUSAT (_June 2013_)
 
 ## Work Experience
@@ -29,11 +29,9 @@ We designed a dashboard and successfully performed calculations by making use of
 As a part of the project, we administered the Microsoft SQL Server Database and worked with the architecture of MS SQL Server, the enterprise edition of SQL Server, and various tools of SQL Server to create and modify databases.
 ![sql](/assets/img/sql_icon.png)
 ### Query a Large Relational Database
-This interesting project on relational databases allowed us practical know-how to work with various data types, table basics, SQL functions, 
-and SQL operators to acquire customer details through database querying.
+This interesting project on relational databases allowed us practical know-how to work with various data types, table basics, SQL functions, and SQL operators to acquire customer details through database querying.
 ### Create Azure Data Factory to find the Popular YouTube Channels
-Thisreal-life-based project on YouTube required usto fetch the list of videosfrom the YouTube channels dataset with the highest views and 
-likes to promote advertisements on the channel with maximum traffic.
+Thisreal-life-based project on YouTube required usto fetch the list of videos from the YouTube channels dataset with the highest views and likes to promote advertisements on the channel with maximum traffic.
 ![adf](/assets/img/Azure-Data-Factory.png)
 
 
