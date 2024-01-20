@@ -11,6 +11,12 @@
 - B.tech IT | CUSAT (_June 2013_)
 
 ## Work Experience
+**KPMG AU Data Analytics Job Simulation on Forage (-January 2024)**
+Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+Assessed data quality and completeness in preparation for analysis.
+Analysed data to target high-value customers based on demographics and attributes.
+Developed dashboards to communicate findings with visuals.
+
 **Social Media Executive | Ourshopee.com, Dubai (_Aug 2015 - Jan 2016_)**
 - Uploading various product details on the website and handling the Facebook page.
 - Designing product images using Photoshop and creating videos about products.
