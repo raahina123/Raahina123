@@ -12,17 +12,17 @@
 
 ## Work Experience
 **KPMG AU Data Analytics Job Simulation on Forage (_January 2024)**
-Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-Assessed data quality and completeness in preparation for analysis.
+- Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+- Assessed data quality and completeness in preparation for analysis.
 Analysed data to target high-value customers based on demographics and attributes.
-Developed dashboards to communicate findings with visuals.
+- Developed dashboards to communicate findings with visuals.
 
 **Freelance Data Analyst, Dubai 
 (_Dec 2022 - Dec 2023_)**
 - Collected and documented client requirements to ensure a precise understanding and successful project execution.
--Conducted data quality checks and data modeling to maintain the accuracy and integrity of data.
--Developed interactive dashboards using Power BI for effective data visualization.
--Obtained certifications in SQL, Power BI, Tableau, MSBI, Azure Data Factory, and Informatica Power Center during this period.
+- Conducted data quality checks and data modeling to maintain the accuracy and integrity of data.
+- Developed interactive dashboards using Power BI for effective data visualization.
+- Obtained certifications in SQL, Power BI, Tableau, MSBI, Azure Data Factory, and Informatica Power Center during this period.
 
 **Social Media Executive | Ourshopee.com, Dubai (_Aug 2015 - Jan 2016_)**
 - Uploading various product details on the website and handling the Facebook page.
