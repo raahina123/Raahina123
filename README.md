@@ -1,7 +1,7 @@
 
-# Data Analyst
+# Microsoft certified Power BI Data Analyst
 
-#### Technical Skills: SQL, Power BI, Tableau, Informatica Power Center, MSBI, Microsoft Azure Data Factory.
+#### Technical Skills: SQL, Excel, Power BI, Tableau, Informatica Power Center, MSBI, Microsoft Azure Data Factory.
 #### • Data Visualization • Research Skills • Analytical Skills • Problem-Solving Skills
 
 ## Education
