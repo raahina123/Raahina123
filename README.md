@@ -24,6 +24,13 @@ Analysed data to target high-value customers based on demographics and attribute
 - Developed interactive dashboards using Power BI for effective data visualization.
 - Obtained certifications in SQL, Power BI, Tableau, MSBI, Azure Data Factory, and Informatica Power Center during this period.
 
+**Support Analyst | HNC Healthcare Dubai 
+(_Nov 2017 - Apr 2019_)**
+- 	Collected and documented patients’ details.
+- 	Petty cash management and documentation.
+- 	Generated reports using MS Excel and data consolidation.
+- 	Implemented pivot tables, charts, various Excel formulas like VLOOKUP, index match and conditional formatting.
+  
 **Social Media Executive | Ourshopee.com, Dubai (_Aug 2015 - Jan 2016_)**
 - Uploading various product details on the website and handling the Facebook page.
 - Designing product images using Photoshop and creating videos about products.
