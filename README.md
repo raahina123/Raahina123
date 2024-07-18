@@ -36,7 +36,7 @@ Analysed data to target high-value customers based on demographics and attribute
 - Designing product images using Photoshop and creating videos about products.
 - Collecting the user data Work on targets and under pressure as this is a hardcore sales profile.
 
-**Software Developer | Treva Technologies, Kannur (_June 2013 - June 2014_)**
+**Software Developer | Treva Technologies, Kerala (_June 2013 - June 2014_)**
 - Developed and deployed a message-sending application that collectsthe user data upon registration and sendsthe message for 
   confirmation. Java SE and MySQL are used.
 - Developed Lab module for Hospital Management Software. Patients can request the orders, collect the samples and then the 
